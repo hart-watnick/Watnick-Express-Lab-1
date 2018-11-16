@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 250px;
+    height: 100px;
+    font-size: larger;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+
+li {
+    -webkit-appearance: none;
+    font-family: "Arial";
+    margin-top: 15px;
+    font-size: 30px;
+    color: darkgreen;
+}
